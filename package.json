@@ -1,0 +1,34 @@
+{
+  "name": "react-conway",
+  "version": "1.0.0",
+  "description": "React visualisation of Conway's Game of Life",
+  "main": "game.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "tape": "^4.0.1"
+  },
+  "devDependencies": {
+    "tape": "^4.0.1"
+  },
+  "scripts": {
+    "test": "node test/game.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrans/react-conway.git"
+  },
+  "keywords": [
+    "React",
+    "Conway",
+    "Game",
+    "Life"
+  ],
+  "author": "JWRans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrans/react-conway/issues"
+  },
+  "homepage": "https://github.com/jrans/react-conway#readme"
+}
